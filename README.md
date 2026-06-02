@@ -1,4 +1,4 @@
-Data Cleaning Summary
+# Data Cleaning Summary
 Handled missing values:
 Filled categorical columns using mode/Unknown
 Dropped rows with critical missing values
